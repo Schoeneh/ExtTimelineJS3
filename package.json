@@ -4,6 +4,7 @@
     "license": "MPL-2.0",
     "description": "TimelineJS v3: A Storytelling Timeline built in JavaScript, made by Northwestern University Knight Lab.",
     "dependencies": {
+        "@json-editor/json-editor": "^2.15.2",
         "dompurify": "^2.2.7",
         "wicg-inert": "^3.1.2"
     },
